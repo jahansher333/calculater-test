@@ -1,2 +1,5 @@
 let name = "Jahansher khan";
-console.log(name);
+
+let age = 16;
+
+console.log(name + " "+age);
